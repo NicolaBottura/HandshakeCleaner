@@ -7,22 +7,31 @@ import datetime
 import sys
 
 welcome = """
+       ***************
+****** AVOID HANDSHAKE ******
+       ***************
+                              __
+          ___..__       r----[__]
+  __..--""" ._ __.'     *   ,'  '.
+              "-..__       : ---- :       
+            '"--..__";     | SOAP |
+ ___        '--...__"";    : ---- :
+    `-..__ '"---..._;"     |  NB  |
+          """"----'         "----"    
 
-
-
-
-
-
+"Always wash your hands in these times, even after an handshake - Nicola Bottura 24-04-2020"
 
 @Nicola Bottura,
 @Giuseppe D'Agostino,
 @Giorgia Lombardi.
-
 """
+		
 count = 0
 time = []
 macs = []
 dict = {}
+
+print(welcome)
 
 def handle_dhcp(packet):
 	global count, time, macs, dict
