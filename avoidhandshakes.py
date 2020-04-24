@@ -12,14 +12,15 @@ welcome = """
        ***************
                               __
           ___..__       r----[__]
-  __..--""" ._ __.'     *   ,'  '.
+  __..--""  ._ __.'     *   ,'  '.
               "-..__       : ---- :       
             '"--..__";     | SOAP |
  ___        '--...__"";    : ---- :
     `-..__ '"---..._;"     |  NB  |
-          """"----'         "----"    
+          ' ""----'         "----"    
 
-"Always wash your hands in these times, even after an handshake - Nicola Bottura 24-04-2020"
+"Always wash your hands, even after a DHCP handshake - Nicola Bottura 2020"
+
 
 @Nicola Bottura,
 @Giuseppe D'Agostino,
