@@ -48,6 +48,7 @@ def handle_dhcp(packet):
                 val = hand_washer(time, newtime, newmac)
                 if val == 0:
                     sleep(60)
+                    dict.clear()
                     break
 
     dict[newtime] = newmac
