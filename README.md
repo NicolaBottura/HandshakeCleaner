@@ -15,5 +15,4 @@ after adding execution permissions(```chmod +x avoidhandshakes.py```).
 
 ## Authors 
 [Nicola Bottura](https://github.com/NicolaBottura)
-
-@Giuseppe D'Agostino
+[Giuseppe D'Agostino](https://github.com/One946)
