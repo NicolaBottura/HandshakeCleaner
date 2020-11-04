@@ -2,7 +2,7 @@
 Detect a DHCP Flood/Starvation attack going on in the LAN in which the script is run.
 If it finds something, it take actions by sending a warning to the real DHCP server in the network.
 
-## USAGE
+## Usage
 Run the tool by simply launching it in the following way
 ```
 python3 avoidhandshakes.py
